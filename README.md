@@ -8,7 +8,7 @@ Write a program that gets all the details of a restaurant.
 - calling methods 
 - String Concatenation using the operator (+)
 
-#How To Compile In MacOS Terminal
+# How To Compile In MacOS Terminal
 - Type cd, moving to the directory of the file
 - To compile type: javac Restaurant.java
 - To execute type: java Restaurant
